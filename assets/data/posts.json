@@ -1,0 +1,117 @@
+[
+  {
+    "user": {
+      "name": "heaven.is.nevaeh",
+      "avi": "assets/images/story7.png"
+    },
+    "caption": "Your favorite duo 💕",
+    "images": [
+      "https://images.unsplash.com/photo-1589177404736-54a6b5c293a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y3V0ZSUyMGNvdXBsZXxlbnwwfHwwfHx8Mg%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "chloe.han",
+      "avi": "assets/images/story3.png"
+    },
+    "caption": "Yesterday was a movie 🎥🤍",
+    "images": [
+      "https://images.unsplash.com/photo-1481841580057-e2b9927a05c6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1645389411992-e9ec49b158e6?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "jaxon.travels",
+      "avi": "assets/images/story8.jpg"
+    },
+    "caption": "Lost in the beauty of the mountains. ⛰️✨",
+    "images": [
+      "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "benjamin_ch",
+      "avi": "assets/images/profile3.jpeg"
+    },
+    "caption": "Peaceful moments in the pasture. 🌿🐄",
+    "images": [
+      "https://images.unsplash.com/photo-1527153857715-3908f2bae5e8?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+
+  {
+    "user": {
+      "name": "amelia.sunshine",
+      "avi": "assets/images/story2.png"
+    },
+    "caption": "Golden hour is my happy hour. 🌅💛",
+    "images": [
+      "https://images.unsplash.com/photo-1529117218-5329a8d5e0f5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1503249080698-a9d0a8f89d48?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "ryan.coffee",
+      "avi": "assets/images/profile2.avif"
+    },
+    "caption": "Nothing beats a morning brew ☕🌿",
+    "images": [
+      "https://images.unsplash.com/photo-1624562432368-57fd3fd48da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bW9ybmluZyUyMGJyZXd8ZW58MHx8MHx8fDI%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "sienna.art",
+      "avi": "assets/images/story6.png"
+    },
+    "caption": "Every stroke tells a story. 🎨💖",
+    "images": [
+      "https://images.unsplash.com/photo-1541753866388-0b3c701627d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFBhaW50aW5nfGVufDB8fDB8fHwy"
+    ]
+  },
+  {
+    "user": {
+      "name": "noah.wanders",
+      "avi": "assets/images/profile2.avif"
+    },
+    "caption": "Chasing sunsets, one city at a time. 🌍🌇",
+    "images": [
+      "https://images.unsplash.com/photo-1505747491709-b563968713cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "elara.melody",
+      "avi": "assets/images/story2.png"
+    },
+    "caption": "Finding your happiness...",
+    "images": [
+      "https://images.unsplash.com/photo-1481653183412-e084e4affe46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "mason.fit",
+      "avi": "assets/images/profile1.jpeg"
+    },
+    "caption": "No excuses, just results. 💪🔥",
+    "images": [
+      "https://images.unsplash.com/photo-1591741543032-bf439b4fd46c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1618169480981-ddb08182cfa8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "user": {
+      "name": "rain_dev",
+      "avi": "assets/images/profile3.jpeg"
+    },
+    "caption": "workspace upgrade 💻",
+    "images": [
+      "https://images.unsplash.com/photo-1483058712412-4245e9b90334?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHdvcmtzcGFjZXxlbnwwfHwwfHx8Mg%3D%3D"
+    ]
+  }
+]
